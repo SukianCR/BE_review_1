@@ -1,6 +1,6 @@
 // imports here for express and pg
 
-// static routes here
+// static routes here (you only need these for deployment)
 
 // app routes here
 
