@@ -1,4 +1,1 @@
-# Guided Practice Readme
-
-Please look at your Canvas Guided Practice for instructions,
-and, if available, your cohort playlist.
+Block 31: Express & SQL: Reading Data- Guided Practice . Connect to DB , get data, print it on client.
